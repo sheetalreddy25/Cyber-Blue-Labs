@@ -7,7 +7,7 @@ This project integrates five distinct lab environments into a single, cohesive s
 
 ### 🛠️ Lab Overview
 | Lab # | Project Focus | Source Files | Key Skills Demonstrated |
-| :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | **01** | Connectivity Baseline | [Download .pkt](./Enterprise_Network_Deployment/lab_project_1.pkt) | IPv4 Addressing, Peer-to-Peer pings |
 | **02** | Inter-Network Bridge | | Default Gateways, Router Interface Config |
 | **03** | Virtual Terminal | | VTY Lines, Telnet Management, Enable Passwords |
