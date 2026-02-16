@@ -1,6 +1,6 @@
 # Cyber-Blue-Labs
 
-Welcome to my Cybersecurity portfolio. This repository documents my journey through the **Cisco Cybersecurity Pathway**, specifically focusing on building, configuring, and hardening enterprise-level network infrastructures.
+Welcome to my cybersecurity portfolio. This repository documents my journey through the Cisco cybersecurity pathway, specifically focusing on building, configuring, and hardening enterprise-level network infrastructures.
 
 ## 🚀 Project: Enterprise Network Deployment
 This project integrates five distinct lab environments into a single, cohesive secure network.
