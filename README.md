@@ -3,7 +3,7 @@
 Welcome to my cybersecurity portfolio. This repository documents my journey through the Cisco cybersecurity pathway, specifically focusing on building, configuring, and hardening enterprise-level network infrastructures.
 
 ## 🚀 Project: Enterprise Network Deployment
-This project integrates five distinct lab environments into a single, cohesive secure network.
+This is a 5-stage network infrastructure project focusing on Cisco IOS configuration and security hardening using Cisco Packet Tracer (a cross-platform visual simulation networking tool from Cisco).
 
 ### 🛠️ Lab Overview 
 [Download Lab Notebook](https://github.com/sheetalreddy25/Cyber-Blue-Labs/blob/846f801448dcc401f3309e07fe317b91b1e8fc30/Enterprise_Network_Deployment/Enterprise_Network_Deployment.pdf)
